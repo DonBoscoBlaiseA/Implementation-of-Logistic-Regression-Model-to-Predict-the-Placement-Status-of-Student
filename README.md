@@ -58,7 +58,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![Screenshot (224)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/12b82fc8-39e8-439a-90ad-ee60d4f96ed2)
+![Screenshot (225)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/ffc2befe-6854-40e5-a4d4-067c6c2b3921)
+![Screenshot (226)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/d8416629-d2b4-4a4b-bbf2-e740518a992d)
+![Screenshot (227)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/7b447260-5189-4531-ae36-4c0b1a6e6676)
+![Screenshot (228)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/3613506b-18c1-459d-a472-54d124313223)
+![Screenshot (229)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/38f4d4ba-d204-4e7d-b663-21efed674c11)
+![Screenshot (230)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/d720beca-57c0-416c-a5e0-c62bdc4795da)
+![Screenshot (231) 1](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/384004e1-e1d2-49ef-b387-5175a84e0bef)
+![Screenshot (231)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/35a81cda-d603-45d5-b916-32252a262564)
 
 
 ## Result:
