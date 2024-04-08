@@ -8,10 +8,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Use LabelEncoder to transform categorical features (gender, ssc_b, hsc_b, etc.) into numerical labels.
+2. Define features (x) and target variable (y) using data1, excluding the "status" column.
+3. Split the dataset into training and testing sets with a specified test size and random state.
+4. Initialize and train a LogisticRegression model with "liblinear" solver using the training data.
+5. Predict status for the testing data, generate a classification report using sklearn.metrics.classification_report, and make predictions for new input features.
 
 ## Program:
 ```
