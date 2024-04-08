@@ -20,7 +20,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: Don Bosco Blaise A
 RegisterNumber: 212221040045
 */
-```
+
 import pandas as pd
 data=pd.read_csv("G:/jupyter_notebook_files/placement_data/Placement_Data.csv")
 data.head()
@@ -55,7 +55,7 @@ from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 
 ## Output:
 ![Screenshot (224)](https://github.com/DonBoscoBlaiseA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/140850829/12b82fc8-39e8-439a-90ad-ee60d4f96ed2)
